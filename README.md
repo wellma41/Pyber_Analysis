@@ -21,8 +21,10 @@ We ended this project with two products.
 	-Second, the less densely populated a city the higher the fare per ride and per driver, with the per driver rate having a greater increase with less density.
 	-Third, only in urban areas are there more drivers than total rides (ratio 0.67 rides per driver). Suburban and Rural have a rides per driver ratio of 1.27 and 1.60 respectively.
 
-(df)
-(plot)
+![Pyber Summary Data Frame](https://user-images.githubusercontent.com/90660790/138583653-8e210dbd-4787-49fa-b4ba-9a5e4d504864.png)
+
+![Weekly Fare Plot](https://user-images.githubusercontent.com/90660790/138583640-67ab8124-1953-42d1-9433-4286d63e58b7.png)
+
 
 ##Summary
 
